@@ -73,12 +73,12 @@ nltk.download('wordnet')
 
 ### 4. Train the model (if needed)  
 ```bash
-python "Souce Code/chatBot_model_file.py"
+python "chatBot_model_file.py"
 ```
 
 ### 5. Run the chatbot  
 ```bash
-python "Souce Code/ChatBot_Application.py"
+python "ChatBot_Application.py"
 ```
 
 ---
