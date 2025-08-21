@@ -105,8 +105,3 @@ BOT: Sorry, I don’t know the answer to that. I can help with drug reactions, b
 
 ---
 
-## 👨‍💻 Author  
-**Varun Akhil**  
-MCA Graduate | Passionate about Machine Learning & Deep Learning  
-
----
